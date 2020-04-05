@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@hatfeather/shared": "git+ssh://git@github.com/HatFeather/temp-ng-pkg.git",
     "@angular/animations": "~9.1.0",
     "@angular/common": "~9.1.0",
     "@angular/compiler": "~9.1.0",
